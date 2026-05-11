@@ -1,0 +1,12 @@
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/bin/Debug/net8.0/UberDinner.Contracts.deps.json
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/bin/Debug/net8.0/UberDinner.Contracts.dll
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/bin/Debug/net8.0/UberDinner.Contracts.pdb
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.AssemblyInfoInputs.cache
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.AssemblyInfo.cs
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.csproj.CoreCompileInputs.cache
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.sourcelink.json
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.dll
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/refint/UberDinner.Contracts.dll
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.pdb
+/home/viniciusgontijo/Projetos/Estudos/UberDinner/src/UberDinner.Contracts/obj/Debug/net8.0/ref/UberDinner.Contracts.dll
